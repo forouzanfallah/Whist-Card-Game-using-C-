@@ -1,1 +1,1 @@
-# Whist-Card-Game-using-C-
+# Whist-Card-Game-using-C++
